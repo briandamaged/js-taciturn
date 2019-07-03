@@ -1,0 +1,24 @@
+{
+  "name": "taciturn",
+  "version": "1.0.0",
+  "description": "Tacit Programming",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/briandamaged/js-taciturn.git"
+  },
+  "keywords": [
+    "tacit",
+    "pointfree",
+    "point-free"
+  ],
+  "author": "Brian Lauber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briandamaged/js-taciturn/issues"
+  },
+  "homepage": "https://github.com/briandamaged/js-taciturn#readme"
+}
