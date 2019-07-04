@@ -4,7 +4,8 @@
   "description": "Tacit Programming",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --recursive test",
+    "wtest": "mocha -w --recursive test"
   },
   "repository": {
     "type": "git",
